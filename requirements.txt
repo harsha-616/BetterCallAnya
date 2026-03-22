@@ -1,0 +1,14 @@
+# Backend dependencies
+flask
+flask-cors
+psycopg2-binary
+python-dotenv
+twilio
+google-genai
+chromadb
+sentence-transformers
+PyMuPDF
+
+# Frontend dependencies
+streamlit
+requests

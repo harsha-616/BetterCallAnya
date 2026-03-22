@@ -1,0 +1,12 @@
+# Environments
+.env
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Local Data and Logs
+chroma.sqlite3/
+emergency_logs.json
+chat_sessions/
